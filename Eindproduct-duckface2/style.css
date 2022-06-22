@@ -1,0 +1,78 @@
+body {
+  color: darkgreen;
+  background-color: lightgreen;
+  font-family: monospace;
+    background-image: linear-gradient(lightgreen, lightpink);
+}
+
+ul:hover {
+  font-weight: bold;
+}
+
+#list3 {
+  background-color: lightcyan;
+  border: 2px solid darkcyan
+}
+
+#list3 li {
+  border: 2px solid darkcyan;
+ background-image: linear-gradient(to right, lightcyan,ghostwhite, ghostwhite);
+}
+
+#page3h {
+  background-color: rgba(200, 240, 255, 0.4)
+}
+
+p {
+  padding: 8px;
+  border: 4px inset darkcyan;
+}
+
+ul a:hover {
+  color:blue;
+}
+
+#page1h {
+ background-color: rgba(205, 200, 255, 0.8);
+}
+
+#page1 {
+  color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(0, 0, 200, 0.4);
+}
+
+#page2h {
+  background-color: rgba(255, 255, 0, 0.6);
+}
+
+#page2 {
+  background-color: rgba(255, 225, 0, 0.8);
+  color: saddlebrown;
+}
+
+h2 {
+  background-color: rgba(255, 255, 255, 0.6);
+}
+
+.home {
+  background-color: rgba(250, 100, 240, 0.6);
+  font-weight: bold;
+  color: rgba(240, 240, 200, 0.8);
+}
+
+ul, li {
+  border: 2px solid goldenrod;
+  background-color: yellow;
+  background-image: linear-gradient(to right, yellow, goldenrod, goldenrod);
+}
+
+table {
+  border: 1px solid black;
+  background-color: rgb(230, 180, 230);
+}
+
+td {
+  border: 1px solid black;
+  background-color: gainsboro;
+}
+
